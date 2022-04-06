@@ -1,0 +1,16 @@
+E:\C#\IntStringIndexer\IntStringIndexer\bin\Debug\net5.0\IntStringIndexer.exe
+E:\C#\IntStringIndexer\IntStringIndexer\bin\Debug\net5.0\IntStringIndexer.deps.json
+E:\C#\IntStringIndexer\IntStringIndexer\bin\Debug\net5.0\IntStringIndexer.runtimeconfig.json
+E:\C#\IntStringIndexer\IntStringIndexer\bin\Debug\net5.0\IntStringIndexer.runtimeconfig.dev.json
+E:\C#\IntStringIndexer\IntStringIndexer\bin\Debug\net5.0\IntStringIndexer.dll
+E:\C#\IntStringIndexer\IntStringIndexer\bin\Debug\net5.0\ref\IntStringIndexer.dll
+E:\C#\IntStringIndexer\IntStringIndexer\bin\Debug\net5.0\IntStringIndexer.pdb
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.csproj.AssemblyReference.cache
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.AssemblyInfoInputs.cache
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.AssemblyInfo.cs
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.csproj.CoreCompileInputs.cache
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.dll
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\ref\IntStringIndexer.dll
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.pdb
+E:\C#\IntStringIndexer\IntStringIndexer\obj\Debug\net5.0\IntStringIndexer.genruntimeconfig.cache

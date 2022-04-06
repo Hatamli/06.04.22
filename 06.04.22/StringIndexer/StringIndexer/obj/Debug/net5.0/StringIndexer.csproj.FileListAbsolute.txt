@@ -1,0 +1,16 @@
+E:\C#\StringIndexer\StringIndexer\bin\Debug\net5.0\StringIndexer.exe
+E:\C#\StringIndexer\StringIndexer\bin\Debug\net5.0\StringIndexer.deps.json
+E:\C#\StringIndexer\StringIndexer\bin\Debug\net5.0\StringIndexer.runtimeconfig.json
+E:\C#\StringIndexer\StringIndexer\bin\Debug\net5.0\StringIndexer.runtimeconfig.dev.json
+E:\C#\StringIndexer\StringIndexer\bin\Debug\net5.0\StringIndexer.dll
+E:\C#\StringIndexer\StringIndexer\bin\Debug\net5.0\ref\StringIndexer.dll
+E:\C#\StringIndexer\StringIndexer\bin\Debug\net5.0\StringIndexer.pdb
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.csproj.AssemblyReference.cache
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.AssemblyInfoInputs.cache
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.AssemblyInfo.cs
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.csproj.CoreCompileInputs.cache
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.dll
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\ref\StringIndexer.dll
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.pdb
+E:\C#\StringIndexer\StringIndexer\obj\Debug\net5.0\StringIndexer.genruntimeconfig.cache
